@@ -29,6 +29,5 @@ License
 
 Contact
 - For any questions or feedback, please contact:
-
-Jane Ljuzov
+- Jane Ljuzov
 - Email: janeljuzov@gmail.com
