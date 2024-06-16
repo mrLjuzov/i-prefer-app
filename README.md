@@ -23,3 +23,11 @@ Vote Between Items:
 
 View Results:
 - The results will appear and you can see the ranked order of items based on your votes.
+
+License
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+- For any questions or feedback, please contact:
+Jane Ljuzov
+- Email: janeljuzov@gmail.com
