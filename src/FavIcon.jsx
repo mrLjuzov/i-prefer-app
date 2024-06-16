@@ -10,9 +10,9 @@ function FavIcon() {
     if (!favicon) return; // Ensure favicon element exists
 
     if (darkMode) {
-      favicon.href = '/src/assets/IPAppIconLogoDarkMode.png'; // Set dark mode favicon
+      favicon.href = '/i-prefer-app/assets/IPAppIconLogoDarkMode.png'; // Set dark mode favicon
     } else {
-      favicon.href = '/src/assets/IPAppIconLogoLightMode.png'; // Set light mode favicon
+      favicon.href = '/i-prefer-app/assets/IPAppIconLogoLightMode-Bmtyc7Qq.png'; // Set light mode favicon
     }
   }, [darkMode]);
 
