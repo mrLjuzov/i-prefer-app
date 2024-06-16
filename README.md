@@ -1,8 +1,24 @@
-# React + Vite
+I Prefer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Version 1.0: Simple, Not scalable, Recomended use any desktop browser, Phone & Tablet usage will be supported in future versions.
 
-Currently, two official plugins are available:
+Overview
+I Prefer App is a simple and intuitive application that allows users to create lists of items, such as names, places, foods, or any other category, and then vote between pairs of items to determine their preferences. The app uses a simple comparison mechanism to help users find out which items they prefer most within their lists.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+- Add Items: Easily add items to your lists. These items can be anything you want to compare.
+- Vote Between Items: Vote between pairs of items to determine your preferences.
+- View Results: See the ranked order of your items based on your voting history.
+
+Usage
+Adding Items to a List:
+- Navigate to the textbox section.
+- Input the names of the items and click "Add Items".
+  
+Vote Between Items:
+- The app will present two items from your list.
+- Click on the item you prefer.
+- Repeat the process for the remaining votes left.
+
+View Results:
+- The results will appear and you can see the ranked order of items based on your votes.
